@@ -1,0 +1,6 @@
+venv
+venv/
+venv\
+.venv
+\doctor_appointment_agentic.egg-info
+.env
